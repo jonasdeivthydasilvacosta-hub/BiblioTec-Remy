@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca Minerva",
+  "description": "Gestão e empréstimo gratuito do acervo da biblioteca escolar para alunos e professores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
